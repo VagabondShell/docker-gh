@@ -1,6 +1,6 @@
 name: Deployment (Container)
 on:
-  pus:
+  push:
     branches:
       - main
       - dev
